@@ -10,5 +10,11 @@ namespace Programsss
 {
     class DatabaseContext
     {
+        //Add a property
+        public int Id
+        {
+            get;
+            set;
+        }
     }
 }
