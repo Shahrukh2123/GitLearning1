@@ -11,6 +11,7 @@ namespace Programsss
         static void Main(string[] args)
         {
             Console.WriteLine("Hello");
+
         }
     }
 }
