@@ -16,5 +16,10 @@ namespace Programsss
             get;
             set;
         }
+        public int Age
+        {
+            get;
+            set;
+        }
     }
 }
